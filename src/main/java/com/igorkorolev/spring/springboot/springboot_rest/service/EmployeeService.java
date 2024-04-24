@@ -1,6 +1,7 @@
-package com.igorkorolev.spring.sprigboot.springboot_rest1.service;
+package com.igorkorolev.spring.springboot.springboot_rest.service;
 
-import com.igorkorolev.spring.sprigboot.springboot_rest1.entity.Employee;
+import com.igorkorolev.spring.springboot.springboot_rest.entity.Employee;
+
 import java.util.List;
 
 public interface EmployeeService {

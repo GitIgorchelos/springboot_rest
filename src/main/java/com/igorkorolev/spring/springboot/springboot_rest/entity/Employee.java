@@ -1,4 +1,4 @@
-package com.igorkorolev.spring.sprigboot.springboot_rest1.entity;
+package com.igorkorolev.spring.springboot.springboot_rest.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;

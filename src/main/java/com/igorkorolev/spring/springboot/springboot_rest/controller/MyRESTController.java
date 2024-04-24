@@ -1,7 +1,7 @@
-package com.igorkorolev.spring.sprigboot.springboot_rest1.controller;
+package com.igorkorolev.spring.springboot.springboot_rest.controller;
 
-import com.igorkorolev.spring.sprigboot.springboot_rest1.entity.Employee;
-import com.igorkorolev.spring.sprigboot.springboot_rest1.service.EmployeeService;
+import com.igorkorolev.spring.springboot.springboot_rest.entity.Employee;
+import com.igorkorolev.spring.springboot.springboot_rest.service.EmployeeService;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
