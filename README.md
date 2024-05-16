@@ -6,4 +6,4 @@
 
 <h3 align="left">  Spring Boot REST .</h3>
 
-<h4 align="left"> Создание REST API проекта с помощью Spring Boot .</h4>
+<h4 align="left"> Создание простого REST API проекта с помощью Spring Boot .</h4>
